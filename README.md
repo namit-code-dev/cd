@@ -93,3 +93,8 @@ for _, rule in rules.iterrows():
     print("\n" + "=" * 60)
 print("APRΙORI ASSOCIATION RULE MINING COMPLETED")
 print("=" * 60)
+
+<img width="670" height="534" alt="image" src="https://github.com/user-attachments/assets/01de65ba-1eb6-4581-b785-fdcda75d098c" />
+<img width="708" height="348" alt="image" src="https://github.com/user-attachments/assets/62273823-1c32-4ebd-bd58-743be3f890cc" />
+
+
